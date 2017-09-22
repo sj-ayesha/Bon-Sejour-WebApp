@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/sugarbeach.png</ImageUrl>
+    <NavigateUrl>http://sugarbeachresort.com.com</NavigateUrl>
+    <AlternateText>Please visit http://sugarbeachresort.com.com</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Images/mauritiusattraction.jpg</ImageUrl>
+    <NavigateUrl>http://mauritiusattractions.com</NavigateUrl>
+    <AlternateText>Please visit http://mauritiusattractions.com</AlternateText>
+    <Impressions>20</Impressions>
+  </Ad>
+</Advertisements>

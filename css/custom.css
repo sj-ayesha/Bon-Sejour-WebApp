@@ -1,0 +1,60 @@
+﻿.static_pos {
+    position: static;
+    margin-bottom: 0;
+}
+
+.center-page {
+    width:300px;
+    height:300px;
+    position:absolute;
+
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+
+    margin:auto;
+}
+
+.space-vert {
+    margin-top:20px;
+}
+
+.text-wrap{
+    float:left;
+    margin-right:25px;
+    clear:left;
+}
+
+.discover-section {
+	 background-color: #22A3CA;
+	 margin: 0;
+	}
+
+.discover-section img{
+	margin: 25px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+	}
+.hotel-bottom { 
+    margin-bottom: 5%;
+
+}
+
+.para {
+    margin: 50px;
+    color: #FFF;
+}
+
+.side-menu {
+    background-color:#2f4050;
+    padding: 0px;
+}
+
+.bouton{
+float:right;
+margin:17px;
+}
+
